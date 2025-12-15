@@ -10,6 +10,7 @@ members = [
 exclude = ["examples", "examples/libadwaita"]
 
 [workspace.package]
+name = "rel4-example"
 version = "0.10.0"
 authors = ["Aaron Erhardt <aaron.erhardt@t-online.de>"]
 edition = "2024"
